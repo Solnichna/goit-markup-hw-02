@@ -1,0 +1,126 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    background-color:aliceblue;
+    font-size: ;
+    line-height: ;
+    font-weight: ;
+}
+font-family: 'Raleway', sans-serif;
+
+ul {
+    list-style: none;
+}
+
+.header {
+    list-style: none;
+}
+.header-navigation {
+}
+.header-logo {
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.166px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.header-logo-color {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.header-menu {
+    color: var(--NAVY-BLUE, #2E2F42);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+}
+.header-menu-item {
+}
+.header-menu-link {
+}
+.address {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+}
+.address-list {
+}
+.address-list-contact {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+}
+.hero {
+    background-color: black;
+    color: #FFFF;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07; 
+    letter-spacing: 0.02em;
+}
+.hero-title {
+}
+.button {
+    color: var(--WHITE, #FFF);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1,5; 
+    letter-spacing: 0.04em;
+    border-radius: 4px;
+    background: var(--IRIS, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+}
+.info {
+}
+.info-list {
+}
+.info-item {
+}
+.info-subtitle {
+}
+.info-text {
+}
+.team {
+}
+.team-list {
+}
+.team-item {
+}
+.team-image {
+}
+.team-name {
+}
+.team-position {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-image {
+}
+.portfolio-subtitle {
+}
+.portfolio-text {
+}
+.footer {
+}
+.footer-link {
+}
+.footer-text {
+}
