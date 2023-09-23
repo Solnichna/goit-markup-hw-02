@@ -17,7 +17,7 @@ ul {
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.166px;
+    line-height: 1.166;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -27,7 +27,7 @@ ul {
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.166;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -111,6 +111,19 @@ ul {
 .info {
     
 }
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
 .info-list {
     
 }
